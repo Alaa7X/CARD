@@ -1,3 +1,7 @@
+import os, time
+print("downloading.")
+time.sleep(0.9)
+os.system("pip install requests")
 import requests
 print("\033[0;36mBY ALAA7X ")
 print("_______________________________________")
